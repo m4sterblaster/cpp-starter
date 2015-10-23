@@ -1,12 +1,12 @@
-h1 C++ - Crash Course
+# C++ - Crash Course
 
 Code created following Derek Banas' great tutorial: [https://www.youtube.com/watch?v=Rub-JsjMhWY]
 
-h2 Pre-Requisit
+## Pre-Requisit
 * Install c/c++ compiler (on windows): [https://www.youtube.com/watch?v=lqzuR2USKRM]
 
 
-h3 Random Notes
+### Random Notes
 
 Note on windows, instead a.out, g++ compiles to a.exe by default. It's runnable.
 
