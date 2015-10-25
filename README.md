@@ -1,7 +1,12 @@
 # C++ - Crash Course 
 
+There are loads of resources out there teaching you how to get started on cpp, esp on youtube if you are the kind of learner who learn best wih videos! I've written this repo based on multiple videos and free learning resources out there, to spread more free learnings! Enjoy this c++ crash course.
+
+Watch the following video when you run code with the specified prefix:
+
 * 01-14: Code created following Derek Banas' great tutorial: https://youtu.be/Rub-JsjMhWY
-* 15: Code created following ICT Tutorials C++ Part 72-75: https://www.youtube.com/watch?v=qRJUPN0NWRU&index=74&list=PL792F8AED9E6F3E9F
+* 15: Code created based on ICT Tutorials C++ Part 72-75: https://www.youtube.com/watch?v=qRJUPN0NWRU&index=74&list=PL792F8AED9E6F3E9F
+* 16: Code created based on mycodeschool's pointers and (2D) arrays tutorial: https://youtu.be/sHcnvZA2u88
 
 ## Pre-Requisit
 * Install c/c++ compiler (on windows): https://www.youtube.com/watch?v=lqzuR2USKRM
